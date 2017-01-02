@@ -2,3 +2,5 @@ alert("Hello word")
 HI
 ööö
 alert("Hello word222")
+alert("Hello word")
+alert("Hello word")
